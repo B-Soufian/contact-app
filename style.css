@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+.titel{
+    padding: 20px;
+    padding-top: 40px;
+}
+
+.titl{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: auto;
+    width: fit-content;
+    font-weight: bold;
+    h1{
+        margin: 0;
+    }
+}
+.titel p{
+    font-size: 11px;
+    color: grey;
+    width: fit-content;
+    margin: auto;
+}
+table td{
+    font-size: 17px;
+   
+}
+.hed{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hed i{
+    font-size: 70px;
+}
+.hed h4{
+    font-weight: bold;
+}
+.hed p{
+    font-size: 20px;
+}
+.row i{
+    font-size: 20px;
+}
+.row p{
+    color: rgb(116, 115, 115);
+    font-size: 15px;
+    
+}
