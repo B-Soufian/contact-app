@@ -46,7 +46,7 @@ contact-app/
    - Add new contacts
    - View existing contacts
    - Edit contact information
-   - Delete contacts
+   - Delete contacts.
 
 ## Contributing
 
